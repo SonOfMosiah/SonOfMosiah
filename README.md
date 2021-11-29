@@ -1,0 +1,3 @@
+- 🚀 VP of Technology @ AltaFin 
+- ⛓ Blockchain development on Ethereum, Solana, and Avalanche.
+- 📫 ammon@altafin.co
