@@ -1,3 +1,3 @@
-- 🚀 Co-founder & CTO @ AltaFin 
-- ⛓ Blockchain development on Ethereum, Solana, and Avalanche.
-- 📫 ammon@altafin.co
+- 🚀 Co-founder & Head of Technology @ Alta Finance
+- ⛓ Blockchain development on Ethereum, Polygon, Avalanche, and Solana.
+- 📫 ammon@alta.finance
