@@ -1,3 +1,3 @@
 - 🚀 Co-founder & Head of Technology @ Alta Finance
-- ⛓ Blockchain development on Ethereum, Polygon, Avalanche, and Solana.
+- ⛓ Blockchain development on Ethereum, Polygon, Avalanche, BNB Chain and Solana.
 - 📫 ammon@alta.finance
