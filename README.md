@@ -5,6 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/0xSonOfMosiah)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SonOfMosiah)
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ammonwerner1.visitor-badge)
+
 I am a full-stack software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
 
 My mission is to help build the open and decentralized economy through web3.
@@ -14,7 +16,6 @@ I studied Computer Science and Economics at Brigham Young University in Provo, U
 - 🚀 Co-founder & Head of Technology @ Alta Finance
 - ⛓ Blockchain development on Ethereum, Polygon, Avalanche, BNB Chain and Solana (and many more).
 - 📫 How to reach me: ammon@alta.finance
-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ammonwerner1.visitor-badge)
 
 
 📈 **My GitHub Stats:**
