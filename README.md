@@ -18,6 +18,7 @@ I studied Computer Science and Economics at Brigham Young University in Provo, U
 - 🚀 Co-founder & Head of Technology @ Alta Finance
 - ⛓ Blockchain development on Ethereum, Polygon, Avalanche, BNB Chain and Solana (and many more).
 - 📫 How to reach me: ammon@alta.finance
+- ENS: sonofmosiah.eth
 
 ---
 
