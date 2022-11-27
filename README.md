@@ -19,6 +19,7 @@ I studied Computer Science and Economics at Brigham Young University in Provo, U
 - ⛓ Blockchain development on Ethereum, Polygon, Avalanche, BNB Chain and Solana (and many more).
 - 📫 How to reach me: dev@sonofmosiah.ai
 - ENS: sonofmosiah.eth | theweb3dev.eth
+- Lens: 0xaaaa.lens
 
 ---
 
