@@ -17,7 +17,7 @@ I studied Computer Science and Economics at Brigham Young University in Provo, U
 
 - 🚀 Software Engineer @ Futureswap
 - (Former) Founder & CTO @ Alta Finance
-- ⛓ Blockchain development on Ethereum, Polygon, Avalanche, BNB Chain and Solana (and many more).
+- ⛓ Blockchain development on Ethereum, Polygon, Arbitrum, Optimism, Avalanche, BNB Chain and Solana (and many more).
 - 📫 How to reach me: dev@sonofmosiah.ai
 - ENS: sonofmosiah.eth | theweb3dev.eth
 - Lens: 0xaaaa.lens
