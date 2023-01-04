@@ -15,7 +15,8 @@ My mission is to help build the open and decentralized economy through web3.
 
 I studied Computer Science and Economics at Brigham Young University in Provo, Utah.
 
-- 🚀 Founder & CTO @ Alta Finance
+- 🚀 Software Engineer @ Futureswap
+- (Former) Founder & CTO @ Alta Finance
 - ⛓ Blockchain development on Ethereum, Polygon, Avalanche, BNB Chain and Solana (and many more).
 - 📫 How to reach me: dev@sonofmosiah.ai
 - ENS: sonofmosiah.eth | theweb3dev.eth
