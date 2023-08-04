@@ -15,7 +15,7 @@ My mission is to help build the open and decentralized economy through web3.
 
 I studied Computer Science and Economics at Brigham Young University in Provo, Utah.
 
-- 🚀 Software Engineer @ Futureswap
+- 🚀 Software Engineer @ Supa
 - 📫 How to reach me: dev@sonofmosiah.ai
 - ENS: sonofmosiah.eth | theweb3dev.eth
 - Lens: 0xaaaa.lens
