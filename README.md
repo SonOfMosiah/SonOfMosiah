@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">SonOfMosiah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Farcaster Badge](https://img.shields.io/badge/Farcaster-8A2BE2)](https://warpcast.com/sonofmosiah.eth)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammon-werner/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sonofmosiah.ai)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sonofmosiah_eth)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SonOfMosiah)
 
@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SonOfMosiah.visitor-badge)
 
-I am a software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
+I am a software engineer that specializes in blockchain development. When I'm not coding, you'll probably find me on the links ⛳️
 
 My mission is to help build the open and decentralized economy through web3.
 
