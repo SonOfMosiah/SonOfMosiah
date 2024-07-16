@@ -9,15 +9,16 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SonOfMosiah.visitor-badge)
 
-I am a full-stack software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
+I am a software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
 
 My mission is to help build the open and decentralized economy through web3.
 
 I studied Computer Science and Economics at Brigham Young University in Provo, Utah.
 
 - 🚀 Software Engineer @ Supa
-- 📫 How to reach me: dev@sonofmosiah.ai
+- 📫 How to reach me: dev@sonofmosiah.xyz
 - ENS: sonofmosiah.eth | theweb3dev.eth
+- Farcaster: sonofmosiah
 - Lens: 0xaaaa.lens
 
 ---
