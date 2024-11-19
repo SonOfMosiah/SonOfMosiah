@@ -15,7 +15,7 @@ My mission is to help build the open and decentralized economy through web3.
 
 I studied Computer Science and Economics at Brigham Young University in Provo, Utah.
 
-- 🚀 Software Engineer @ Supa
+- 🚀 Software Engineer @ Azura
 - 📫 How to reach me: dev@sonofmosiah.xyz
 - ENS: sonofmosiah.eth | theweb3dev.eth
 - Farcaster: sonofmosiah
@@ -34,8 +34,8 @@ I studied Computer Science and Economics at Brigham Young University in Provo, U
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
