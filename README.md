@@ -11,7 +11,7 @@
 
 I am a software engineer that specializes in blockchain development. When I'm not coding, you'll probably find me on the links ⛳️
 
-My mission is to help build the open and decentralized economy through web3.
+My mission is to help build the open and decentralized economy.
 
 I studied Computer Science and Economics at Brigham Young University in Provo, Utah.
 
